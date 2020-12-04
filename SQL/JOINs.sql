@@ -71,9 +71,3 @@ JOIN conta_corrente
 	 AND conta_corrente.agencia_numero = agencia.numero
 JOIN cliente
      ON cliente.numero = conta_corrente.cliente_numero;
-
-
-
-
-
-
