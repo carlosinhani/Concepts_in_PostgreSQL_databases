@@ -48,14 +48,3 @@ SELECT numero, nome, ativo FROM vw_bancos_com_a;
 INSERT INTO vw_bancos_com_a (numero, nome, ativo) VALUES (333, 'Alfa Omega',TRUE);
 INSERT INTO vw_bancos_com_a (numero, nome, ativo) VALUES (331, 'Alfa Gama',FALSE);
 INSERT INTO vw_bancos_com_a (numero, nome, ativo) VALUES (332, 'Alfa Gama Beta',FALSE);
-
-
-
-
-
-
-
-
-
-
-

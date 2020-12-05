@@ -29,8 +29,3 @@ CREATE OR REPLACE RECURSIVE VIEW vw_func(id, gerente, funcionarios) AS (
 );
 
 SELECT id, gerente, funcionarios FROM vw_func;
-
-
-
-
-
